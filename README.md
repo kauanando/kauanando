@@ -4,7 +4,16 @@
 
 </div>
 # Tech Stack
-
+<div align="center">
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/>
+</a>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code"/>
+</a>
 <div align="center">
 
 # Linguagens
