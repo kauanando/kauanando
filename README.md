@@ -173,69 +173,78 @@ kauan@system:~$ system_status
 ---
 
 # 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kauannn45&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=FFFFFF&theme=dark"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauannn45&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF&theme=dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kauannn45&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=FFFFFF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauannn45&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=kauannn45&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF3B3B&currStreakLabel=FF3B3B"/>
+<img src="https://streak-stats.demolab.com?user=kauannn45&hide_border=true&background=0D1117&ring=FF0000&fire=FF3B3B&currStreakLabel=FF3B3B&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
 </div>
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauannn45&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF3B3B&area=true&hide_border=true" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauannn45&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF3B3B&area=true&hide_border=true" width="100%" />
+
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kauannn45&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kauannn45&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kauannn45/kauannn45/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/kauannn45/kauannn45/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
 
 ---
 
-# 🌐 Conecte-se Comigo
+## 🌐 Conecte-se Comigo
 
 <div align="center">
+
 <a href="https://github.com/kauannn45">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3B3B"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3B3B" />
 </a>
+
 <a href="https://www.linkedin.com/in/kauan-ando/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF3B3B"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF3B3B" />
 </a>
+
 <a href="mailto:kauanvictorandocoelho@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3B3B"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3B3B" />
 </a>
+
 </div>
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║        "The future is built, not predicted."        ║
-║                                                      ║
-║              SYSTEM STATUS :: ONLINE                ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+### `> SYSTEM ONLINE // KEEP LEARNING // KEEP BUILDING`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:350000,100:ff0000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:350000,100:FF0000&height=100&section=footer" width="100%" />
+
 </div>
