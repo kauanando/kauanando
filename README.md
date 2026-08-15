@@ -1,250 +1,201 @@
-# 
+## 🎯 CURRENT MISSIONS
 
-```
+
+```bash
+kauan@system:~$ ./current_missions
+
+
+[01] ── Evoluir em Python
+[02] ── Aprofundar conhecimentos em Data Science
+[03] ── Explorar Inteligência Artificial
+[04] ── Desenvolver projetos reais
+[05] ── Aprimorar Machine Learning
+[06] ── Evoluir minhas habilidades como desenvolvedor
+[07] ── Construir um portfólio cada vez mais completo
+
+
+kauan@system:~$ _
+
+
+Mas dá para deixar **ainda mais parecido com a imagem**, usando algo como:
+
+
+```md
+### `> CURRENT_MISSIONS`
+
+
+```text
+┌──────────────────────────────────────────────┐
+│ KAUAN@SYSTEM :: CURRENT MISSIONS             │
+├──────────────────────────────────────────────┤
+│                                              │
+│  [✓] Evoluir em Python                       │
+│  [✓] Aprofundar Data Science                 │
+│  [→] Estudar Inteligência Artificial         │
+│  [→] Desenvolver projetos reais              │
+│  [→] Evoluir em Machine Learning             │
+│  [→] Melhorar como desenvolvedor             │
+│  [→] Construir um portfólio completo         │
+│                                              │
+└──────────────────────────────────────────────┘
+
+
+**Eu prefiro a segunda**, porque visualmente combina muito mais com a referência e dá uma identidade própria para o seu GitHub.
+Agr faça o código completo
+
+Sim. Vou montar o README completo mantendo o que você já tinha, mas deixando tudo mais organizado e com a identidade preto + vermelho + terminal/futurista, sem colocar o Snake que exigiria GitHub Actions.
+
 <div align="center">
 
-<!-- BANNER PRINCIPAL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:350000,100:ff0000&height=220&section=header&text=KAUAN%20VICTOR&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=DEVELOPER%20%7C%20DATA%20%7C%20AI&descSize=17&descAlignY=63" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=FF3B3B&center=true&vCenter=true&width=750&lines=Initializing+KauanOS...;System+booting...;Loading+Artificial+Intelligence...;Loading+Data+Science+modules...;Python+Developer;System+Online+%E2%9C%93" />
+<!-- ====================================================== -->
+<!--                    HEADER / BANNER                     -->
+<!-- ====================================================== -->
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:220000,75:8B0000,100:ff0000&height=230&section=header&text=KAUAN%20VICTOR&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=DEVELOPER%20%7C%20PYTHON%20%7C%20DATA%20%7C%20AI&descAlignY=62&descSize=18"/>
+
+
+<!-- TYPING -->
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF0000&center=true&vCenter=true&width=650&lines=Initializing+Kauan+Victor+System...;Python+%7C+Data+Science+%7C+Artificial+Intelligence;Machine+Learning+%7C+Data+Analysis;Building.+Learning.+Evolving." />
+
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=kauannn45&style=for-the-badge&color=ff0000&label=PROFILE+VIEWS"/>
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VIEWS&color=red&style=for-the-badge" />
+
 
 </div>
 
+
 ---
 
-# 👋 Sobre Mim
 
+# `> ABOUT_ME`
+
+
+```bash
+kauan@system:~$ ./about_me
+
+
+> Nome............... Kauan Victor
+> Área............... Desenvolvimento de Sistemas
+> Foco................ Python & Data
+> Especialização..... Data Science & AI
+> Objetivo............ Evoluir constantemente
+> Status.............. ONLINE
+> Sistema............. BUILDING THE FUTURE
+
+
+kauan@system:~$ _
+> SYSTEM_STATUS
 <div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                  KAUAN VICTOR SYSTEM                     ║
-╠══════════════════════════════════════════════════════════╣
-║ STATUS      :: ONLINE                                    ║
-║ ROLE        :: Developer                                 ║
-║ FOCUS       :: Python • Data • AI                        ║
-║ EDUCATION   :: Análise e Desenvolvimento de Sistemas    ║
-║ AI MODULE   :: Microsoft AI-900                           ║
-║ MODE        :: CONTINUOUS LEARNING                       ║
-╚══════════════════════════════════════════════════════════╝
-```
-
+SYSTEM	STATUS
+🐍 Python	LEARNING / BUILDING
+📊 Data Science	IN PROGRESS
+🤖 Artificial Intelligence	IN PROGRESS
+🧠 Machine Learning	EVOLVING
+💻 Development	ACTIVE
+🚀 Projects	BUILDING
 </div>
-
-Olá! Eu sou **Kauan Victor**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.
-
-Atualmente estou desenvolvendo minhas habilidades principalmente em **Python, Data Science, Análise de Dados e Inteligência Artificial**.
-
-Também tenho conhecimentos em **Java, HTML, CSS e Excel**, além de utilizar ferramentas como Git, GitHub e VS Code no meu desenvolvimento.
-
-Meu objetivo é transformar conhecimento em projetos reais, aprender continuamente e evoluir cada vez mais como desenvolvedor.
-
-> `LEARN → CODE → ANALYZE → BUILD → EVOLVE`
-> 
-
----
-
-# 🧠 Tech Stack
-
-<div align="center">
-
-### Linguagens
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-</a>
-<a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-</a>
+> TECH_STACK
+LANGUAGES
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" /> </div>
+DATA & AI
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 
 <br><br>
 
-### Dados & Inteligência Artificial
-
-<img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-00A67D?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-000000?style=for-the-badge&logo=python&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Data%20Analysis-000000?style=for-the-badge&logo=databricks&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=FF0000" /> </div>
+TOOLS
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 <br><br>
 
-### Excel
+<img src="https://img.shields.io/badge/Advanced%20Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Microsoft%20AI--900-000000?style=for-the-badge&logo=microsoft&logoColor=FF0000" /> </div>
+> KNOWLEDGE_BASE
+┌──────────────────────────────────────────────────────┐
+│                 KNOWLEDGE DATABASE                    │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  [01] Python                                         │
+│  [02] Data Science                                   │
+│  [03] Data Analysis                                  │
+│  [04] Artificial Intelligence                         │
+│  [05] Machine Learning                               │
+│  [06] Advanced Excel                                 │
+│  [07] Java                                           │
+│  [08] HTML / CSS                                     │
+│  [09] Git / GitHub                                   │
+│  [10] VS Code                                        │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+> AI_SYSTEM
+kauan@system:~$ ./ai_system
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</div>
 
----
+[+] Artificial Intelligence.............. ACTIVE
+[+] Machine Learning..................... EVOLVING
+[+] Data Science.......................... ACTIVE
+[+] Python Development.................... ACTIVE
+[+] Problem Solving....................... ONLINE
 
-# 🛠️ Ferramentas
 
+> SYSTEM MESSAGE:
+> Transforming knowledge into real-world projects.
+
+
+kauan@system:~$ _
+> CURRENT_MISSIONS
+┌──────────────────────────────────────────────────────┐
+│              KAUAN@SYSTEM :: MISSIONS                │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  [01] ── Evoluir continuamente em Python             │
+│  [02] ── Aprofundar conhecimentos em Data Science    │
+│  [03] ── Explorar Inteligência Artificial            │
+│  [04] ── Desenvolver projetos reais                 │
+│  [05] ── Aprimorar habilidades em Machine Learning   │
+│  [06] ── Evoluir como desenvolvedor                 │
+│  [07] ── Construir um portfólio sólido e completo   │
+│  [08] ── Transformar conhecimento em soluções reais │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+> GITHUB_ANALYTICS
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&ring_color=FF0000"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF"/> </div>
+> CONTRIBUTION_ACTIVITY
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%"/> </div>
+> GITHUB_TROPHIES
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/> </div>
+> DEVELOPMENT_LOG
+kauan@system:~$ ./development_log
+
+
+[+] Learning new technologies
+[+] Building practical projects
+[+] Improving programming skills
+[+] Exploring Data Science
+[+] Studying Artificial Intelligence
+[+] Developing Machine Learning knowledge
+[+] Expanding developer portfolio
+
+
+STATUS: ALL SYSTEMS OPERATIONAL
+
+
+kauan@system:~$ _
+> CONNECT
+<div align="center"> <a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000"/> </a> </div>
 <div align="center">
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/>
-</a>
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</div>
-
----
-
-# 💻 Conhecimentos
-
-```
-Python                 ████████████████████░░  90%
-Data Science           █████████████████░░░░░  80%
-Data Analysis          █████████████████░░░░░  80%
-Artificial Intelligence████████████████░░░░░░  75%
-Excel                  ███████████████████░░░  85%
-HTML                   ███████████████░░░░░░░  70%
-CSS                    ███████████████░░░░░░░  70%
-Java                   ████████████░░░░░░░░░░  60%
-Git / GitHub            ████████████████░░░░░░  75%
-```
-
----
-
-# 🤖 AI SYSTEM
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│                 KAUAN AI CORE                       │
-│                                                     │
-│   [✓] Python                                        │
-│   [✓] Data Analysis                                 │
-│   [✓] Data Science                                  │
-│   [✓] Artificial Intelligence                       │
-│   [✓] Machine Learning                              │
-│                                                     │
-│   STATUS :: LEARNING                                │
-│   MODE   :: ACTIVE                                  │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# 🎯 Objetivos Atuais
-
-```
-kauan@system:~$./current_missions
-
-> [01] Evoluir em Python
-> [02] Aprofundar conhecimentos em Data Science
-> [03] Estudar Inteligência Artificial
-> [04] Desenvolver projetos reais
-> [05] Evoluir em Machine Learning
-> [06] Melhorar minhas habilidades como desenvolvedor
-> [07] Construir um portfólio cada vez mais completo
-
-kauan@system:~$ system_status
-
-> LEARNING_MODE = ON
-> DEVELOPMENT_MODE = ON
-> AI_MODE = ACTIVE
-> STATUS = EVOLVING...
-```
-
----
-
-# 📊 GitHub Stats
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kauannn45&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=FFFFFF" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauannn45&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=kauannn45&hide_border=true&background=0D1117&ring=FF0000&fire=FF3B3B&currStreakLabel=FF3B3B&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauannn45&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF3B3B&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kauannn45&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kauannn45/kauannn45/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-## 🌐 Conecte-se Comigo
-
-<div align="center">
-
-<a href="https://github.com/kauannn45">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3B3B" />
-</a>
-
-<a href="https://www.linkedin.com/in/kauan-ando/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF3B3B" />
-</a>
-
-<a href="mailto:kauanvictorandocoelho@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3B3B" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `> SYSTEM ONLINE // KEEP LEARNING // KEEP BUILDING`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:350000,100:FF0000&height=100&section=footer" width="100%" />
-
-</div>
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║        "BUILD. LEARN. EVOLVE. REPEAT."              ║
+║                                                      ║
+║              KAUAN VICTOR SYSTEM                    ║
+║                  STATUS: ONLINE                     ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+<br> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:8B0000,100:000000&height=120&section=footer"/> </div> ```
