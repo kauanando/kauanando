@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### Linguagens
+# Linguagens
 
 <a href="https://www.python.org/">
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
